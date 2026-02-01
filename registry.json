@@ -1,8 +1,8 @@
 {
   "button": {
-    "files": ["button.tsx"]
+    "files": ["button"]
   },
   "card": {
-    "files": ["card.tsx"]
+    "files": ["card"]
   }
 }
