@@ -1,12 +1,12 @@
-const Button = ({ children, className, ...functionality }) => {
+const Primary_Button = ({ children, className = "", ...functionality }) => {
   return (
-    <div
+    <button
       {...functionality}
       className={`bg-black dark:bg-white text-white dark:text-black border-b-2 border-gray-600 dark:border-b-2 dark:border-gray-500 px-5 py-2 rounded-xl active:scale-95 transition duration-300 ease-in-out cursor-pointer ${className}`}
     >
       {children}
-    </div>
+    </button>
   );
 };
 
-export default Button;
+export default Primary_Button;

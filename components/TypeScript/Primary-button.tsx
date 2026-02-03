@@ -3,7 +3,7 @@ type ButtonProps = {
   className?: string;
 } & React.HTMLAttributes<HTMLButtonElement>;
 
-const Button: React.FC<ButtonProps> = ({
+const Primary_Button: React.FC<ButtonProps> = ({
   children,
   className = "",
   ...functionality
@@ -18,4 +18,4 @@ const Button: React.FC<ButtonProps> = ({
   );
 };
 
-export default Button;
+export default Primary_Button;
