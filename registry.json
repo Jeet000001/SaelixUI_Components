@@ -1,5 +1,8 @@
 {
-  "primary-button": {
+  "secondary-button":{
+    "files":["button01"]
+  },
+  "Primarybutton": {
     "files": ["Primarybutton"]
   },
   "button": {
