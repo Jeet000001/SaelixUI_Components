@@ -4,11 +4,5 @@
   },
   "Primary-button": {
     "files": ["Primary-button"]
-  },
-  "button": {
-    "files": ["button"]
-  },
-  "card": {
-    "files": ["card"]
   }
 }
