@@ -1,6 +1,6 @@
 {
-  "Primary-Btton":{
-    "files":["primary-button"]
+  "primary-btton":{
+    "files":["Primary-Button"]
   },
   "button": {
     "files": ["button"]
