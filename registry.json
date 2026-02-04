@@ -1,8 +1,11 @@
 {
+  "Primary-button": {
+    "files": ["Primary-button"]
+  },
   "secondary-button":{
     "files":["secondary-button"]
   },
-  "Primary-button": {
-    "files": ["Primary-button"]
+  "destructive-button": {
+    "files": ["destructive-button"]
   }
 }
