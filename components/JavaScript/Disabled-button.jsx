@@ -19,8 +19,7 @@ const Disabled_Button = ({
         disabled:border-gray-300
         disabled:cursor-not-allowed
         disabled:opacity-60
-        disabled:hover:bg-gray-400
-        disabled:active:scale-100
+        disabled:hover:bg-gray-400 disabled:active:scale-100
         ${className}
       `}
     >
