@@ -16,5 +16,8 @@
   },
   "link-button": {
     "files":["link-button"]
+  },
+  "disabled-button": {
+    "files": ["disabled-button"]
   }
 }
