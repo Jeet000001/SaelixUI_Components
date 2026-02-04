@@ -7,5 +7,11 @@
   },
   "destructive-button": {
     "files": ["destructive-button"]
+  },
+  "outline-button": {
+    "files": ["outline-button"]
+  },
+  "ghost-button": {
+    "files": ["ghost-button"]
   }
 }
