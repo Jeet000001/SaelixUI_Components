@@ -19,5 +19,8 @@
   },
   "disabled-button": {
     "files": ["disabled-button"]
+  },
+  "rounded-button": {
+    "files": ["rounded-button"]
   }
 }
