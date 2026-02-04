@@ -13,5 +13,8 @@
   },
   "ghost-button": {
     "files": ["ghost-button"]
+  },
+  "link-button": {
+    "files":["link-button"]
   }
 }
