@@ -22,5 +22,8 @@
   },
   "rounded-button": {
     "files": ["rounded-button"]
+  },
+  "icon-button": {
+    "files": ["icon-button"]
   }
 }
