@@ -38,7 +38,7 @@ const Animated_Text_Button = ({
         className={`px-5 py-2 rounded-xl relative overflow-hidden glow-hover
         bg-black text-white hover:bg-gray-950
         dark:bg-white dark:text-black dark:hover:bg-gray-200
-        transition-all duration-300 ${className}`}
+        transition-all duration-300 active:scale-95 ${className}`}
       >
         <span className="relative inline-block glow-text">{children}</span>
       </button>
