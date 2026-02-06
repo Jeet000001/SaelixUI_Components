@@ -25,5 +25,11 @@
   },
   "icon-button": {
     "files": ["icon-button"]
+  },
+  "gradient-button01": {
+    "files": ["gradient-button"]
+  },
+  "gradient-button02": {
+    "files": ["gradient-animation-button"]
   }
 }
