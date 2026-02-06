@@ -31,5 +31,8 @@
   },
   "gradient-animation-button": {
     "files": ["gradient-animation-button"]
+  },
+  "animated-text-button": {
+    "files": ["animated-text-button"]
   }
 }
