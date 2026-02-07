@@ -46,5 +46,8 @@
   },
   "default-alert": {
     "files": ["default-alert"]
+  },
+  "with-logo-alert": {
+    "files": ["with-logo-alert"]
   }
 }
