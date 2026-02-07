@@ -49,5 +49,8 @@
   },
   "with-logo-alert": {
     "files": ["with-logo-alert"]
+  },
+  "center-alart": {
+    "files": ["center-alart"]
   }
 }
