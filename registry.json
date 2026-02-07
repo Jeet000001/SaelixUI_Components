@@ -39,6 +39,9 @@
     "files": ["default-accordion"]
   },
   "box-accordion": {
-    "files": ["accordion"]
+    "files": ["box-accordion"]
+  },
+  "outline-accordion": {
+    "files": ["outline-accordion"]
   }
 }
