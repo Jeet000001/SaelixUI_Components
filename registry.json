@@ -34,5 +34,8 @@
   },
   "animated-text-button": {
     "files": ["animated-text-button"]
+  },
+  "default_accordion": {
+    "files": ["default_accordion"]
   }
 }
