@@ -21,7 +21,7 @@ const With_Icon_Alart = ({ btntext, alartHeading, alartDiscription, icon }: Alar
         className="
           px-6 py-3 rounded-lg font-medium
           bg-black text-white hover:bg-gray-800
-          dark:bg-[#3B82F6] dark:hover:bg-[#2563EB]
+          dark:bg-[#3B82F6] dark:hover:bg-[#2563EB] active:scale-95 transition duration-300
         "
       >
         {btntext}
