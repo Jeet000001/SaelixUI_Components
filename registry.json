@@ -43,5 +43,8 @@
   },
   "outline-accordion": {
     "files": ["outline-accordion"]
+  },
+  "default-alert": {
+    "files": ["default-alert"]
   }
 }

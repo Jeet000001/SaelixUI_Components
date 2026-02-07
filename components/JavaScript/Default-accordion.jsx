@@ -1,5 +1,6 @@
 //If you are using Next.js (App Router) → you must write "use client" at the top for client-side components.
 //If you are using normal React.js (CRA/Vite) → you do NOT need "use client".
+
 import { useState } from "react";
 import { ChevronDown } from "lucide-react";
 
