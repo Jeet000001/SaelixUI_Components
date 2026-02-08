@@ -14,7 +14,7 @@ const Default_Avatar = ({
   return (
     <div
       style={{ width, height }}
-      className="inline-block rounded-full hover:scale-110 transition-all duration-300"
+      className="inline-block rounded-full bg-gray-300 p-0.5 hover:scale-110 transition-all duration-300"
     >
       <img
         src={src}
