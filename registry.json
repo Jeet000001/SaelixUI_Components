@@ -50,7 +50,10 @@
   "with-logo-alert": {
     "files": ["with-logo-alert"]
   },
-  "center-alart": {
+  "center-alert": {
     "files": ["center-alart"]
+  },
+  "header-alert": {
+    "files": ["header-alart"]
   }
 }
