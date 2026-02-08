@@ -64,5 +64,8 @@
   },
   "clickable-avatar": {
     "files": ["clickable-avatar"]
+  },
+  "avatar-card": {
+    "files": ["avatar-card"]
   }
 }
