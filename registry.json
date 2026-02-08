@@ -61,5 +61,8 @@
   },
   "default-avatar": {
     "files": ["default-avatar"]
+  },
+  "clickable-avatar": {
+    "files": ["clickable-avatar"]
   }
 }
