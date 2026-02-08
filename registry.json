@@ -55,5 +55,8 @@
   },
   "header-alert": {
     "files": ["header-alart"]
+  },
+  "footer-alert": {
+    "files": ["footer-alert"]
   }
 }
