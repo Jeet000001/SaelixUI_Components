@@ -58,5 +58,8 @@
   },
   "footer-alert": {
     "files": ["footer-alert"]
+  },
+  "default-avatar": {
+    "files": ["default-avatar"]
   }
 }
