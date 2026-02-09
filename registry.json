@@ -70,5 +70,8 @@
   },
   "avatar-status": {
     "files": ["avatar-status"]
+  },
+  "avatar-character": {
+    "files": ["avatar-character"]
   }
 }
