@@ -67,5 +67,8 @@
   },
   "avatar-card": {
     "files": ["avatar-card"]
+  },
+  "avatar-status": {
+    "files": ["avatar-status"]
   }
 }
