@@ -1,6 +1,6 @@
 import { Linkedin } from "lucide-react";
 
-const Clickable_badge = ({
+const Clickable_Badge = ({
   className = "",
   url = "",
   label = "",
@@ -39,4 +39,4 @@ const Clickable_badge = ({
   );
 };
 
-export default Clickable_badge;
+export default Clickable_Badge;

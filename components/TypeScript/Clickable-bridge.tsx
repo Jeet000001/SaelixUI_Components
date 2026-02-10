@@ -7,7 +7,7 @@ type Props = {
   label?: string;
 } & React.HTMLAttributes<HTMLDivElement>;
 
-const Clickable_badge: React.FC<Props> = ({
+const Clickable_Badge: React.FC<Props> = ({
   className = "",
   url = "",
   label = "",
@@ -46,4 +46,4 @@ const Clickable_badge: React.FC<Props> = ({
   );
 };
 
-export default Clickable_badge;
+export default Clickable_Badge;
