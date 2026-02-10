@@ -82,5 +82,11 @@
   },
   "primary-badge": {
     "files": ["primary-badge"]
+  },
+  "secondary-badge": {
+    "files": ["secondary-badge"]
+  },
+  "destructive-badge": {
+    "files": ["destructive-badge"]
   }
 }
