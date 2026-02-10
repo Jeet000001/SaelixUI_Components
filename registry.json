@@ -91,5 +91,8 @@
   },
   "outline-badge": {
     "files": ["outline-badge"]
+  },
+  "clickable-badge": {
+    "files": ["clickable-badge"]
   }
 }
