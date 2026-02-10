@@ -79,5 +79,8 @@
   },
   "avatar-stack": {
     "files": ["avatar-stack"]
+  },
+  "primary-badge": {
+    "files": ["primary-badge"]
   }
 }
