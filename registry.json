@@ -88,5 +88,8 @@
   },
   "destructive-badge": {
     "files": ["destructive-badge"]
+  },
+  "outline-badge": {
+    "files": ["outline-badge"]
   }
 }
