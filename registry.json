@@ -103,5 +103,8 @@
   },
   "image-badge": {
     "files": ["image-badge"]
+  },
+  "status-badge": {
+    "files": ["status-badge"]
   }
 }
