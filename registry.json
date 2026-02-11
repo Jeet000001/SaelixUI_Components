@@ -94,5 +94,8 @@
   },
   "clickable-badge": {
     "files": ["clickable-badge"]
+  },
+  "shaped-badge": {
+    "files": ["shaped-badge"]
   }
 }
