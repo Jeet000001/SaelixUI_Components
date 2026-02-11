@@ -100,5 +100,8 @@
   },
   "gradient-badge": {
     "files": ["gradient-badge"]
+  },
+  "image-badge": {
+    "files": ["image-badge"]
   }
 }
