@@ -110,7 +110,7 @@
   "default-breadcrumb": {
     "files": ["default-breadcrumb"]
   },
-  "tab-breadcrumb": {
-    "files": ["tab-breadcrumb"]
+  "tabs-breadcrumb": {
+    "files": ["tabs-breadcrumb"]
   }
 }
