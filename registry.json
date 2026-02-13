@@ -109,5 +109,8 @@
   },
   "default-breadcrumb": {
     "files": ["default-breadcrumb"]
+  },
+  "tab-breadcrumb": {
+    "files": ["tab-breadcrumb"]
   }
 }
