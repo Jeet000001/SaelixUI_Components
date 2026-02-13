@@ -112,5 +112,8 @@
   },
   "tabs-breadcrumb": {
     "files": ["tabs-breadcrumb"]
+  },
+  "outline-breadcrumb": {
+    "files": ["outline-breadcrumb"]
   }
 }
