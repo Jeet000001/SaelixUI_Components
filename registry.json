@@ -106,5 +106,8 @@
   },
   "status-badge": {
     "files": ["status-badge"]
+  },
+  "default-breadcrumb": {
+    "files": ["default-breadcrumb"]
   }
 }
