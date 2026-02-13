@@ -115,5 +115,8 @@
   },
   "outline-breadcrumb": {
     "files": ["outline-breadcrumb"]
+  },
+  "step-breadcrumb": {
+    "files": ["step-breadcrumb"]
   }
 }
