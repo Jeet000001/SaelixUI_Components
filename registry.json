@@ -127,5 +127,8 @@
   },
   "travel-card": {
     "files": ["travel-card"]
-  }
+  },
+  "product-card": {
+    "files": ["product-card"]
+  },
 }
