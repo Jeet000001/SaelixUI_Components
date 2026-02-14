@@ -118,5 +118,8 @@
   },
   "step-breadcrumb": {
     "files": ["step-breadcrumb"]
+  },
+  "profile-card": {
+    "files": ["profile-card"]
   }
 }
