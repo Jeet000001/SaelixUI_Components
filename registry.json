@@ -124,5 +124,8 @@
   },
   "food-card": {
     "files": ["food-card"]
+  },
+  "travel-card": {
+    "files": ["travel-card"]
   }
 }
