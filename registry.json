@@ -121,5 +121,8 @@
   },
   "profile-card": {
     "files": ["profile-card"]
+  },
+  "food-card": {
+    "files": ["food-card"]
   }
 }
