@@ -131,4 +131,7 @@
   "product-card": {
     "files": ["product-card"]
   },
+  "course-card": {
+    "files": ["course-card"]
+  }
 }
