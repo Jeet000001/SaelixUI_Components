@@ -136,5 +136,8 @@
   },
   "pricing-card": {
     "files": ["pricing-card"]
+  },
+  "testimonial-card": {
+    "files": ["testimonial-card"]
   }
 }
