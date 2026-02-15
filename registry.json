@@ -133,5 +133,8 @@
   },
   "course-card": {
     "files": ["course-card"]
+  },
+  "pricing-card": {
+    "files": ["pricing-card"]
   }
 }
