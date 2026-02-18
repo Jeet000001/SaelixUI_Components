@@ -142,5 +142,8 @@
   },
   "signup-card": {
     "files": ["signup-card"]
+  },
+  "login-card": {
+    "files": ["login-card"]
   }
 }
