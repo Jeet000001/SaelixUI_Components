@@ -1,5 +1,6 @@
 // If you are using Next.js (App Router) → write "use client" on top
 // If normal React (CRA/Vite) → not needed
+
 import { useState } from "react";
 import { ChevronDown } from "lucide-react";
 

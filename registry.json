@@ -139,5 +139,8 @@
   },
   "testimonial-card": {
     "files": ["testimonial-card"]
+  },
+  "signup-card": {
+    "files": ["signup-card"]
   }
 }
