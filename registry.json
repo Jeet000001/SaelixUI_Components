@@ -145,5 +145,8 @@
   },
   "login-card": {
     "files": ["login-card"]
+  },
+  "default-carousel": {
+    "files": ["default-carousel"]
   }
 }
