@@ -151,5 +151,8 @@
   },
   "vertical-carousel": {
     "files": ["vertical-carousel"]
+  },
+  "multiple-slides-carousel": {
+    "files": ["Multiple-slides-carousel"]
   }
 }
