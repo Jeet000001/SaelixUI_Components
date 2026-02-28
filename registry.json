@@ -153,6 +153,9 @@
     "files": ["vertical-carousel"]
   },
   "multiple-slides-carousel": {
-    "files": ["Multiple-slides-carousel"]
+    "files": ["multiple-slides-carousel"]
+  },
+  "slides-status-carousel": {
+    "files": ["slides-status-carousel"]
   }
 }
