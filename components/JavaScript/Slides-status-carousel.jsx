@@ -6,7 +6,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const items = [1, 2, 3, 4, 5];
 
-const Status_Carousel = () => {
+const Slide_Status_Carousel = () => {
   const [index, setIndex] = useState(0);
 
   const prevSlide = () => {
@@ -88,4 +88,4 @@ const Status_Carousel = () => {
   );
 };
 
-export default Status_Carousel;
+export default Slide_Status_Carousel;

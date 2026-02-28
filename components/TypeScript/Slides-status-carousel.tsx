@@ -6,7 +6,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const items = [1, 2, 3, 4, 5];
 
-const Default_Carousel: React.FC = () => {
+const Slide_Status_Carousel: React.FC = () => {
   const [index, setIndex] = useState<number>(0);
 
   const prevSlide = () => {
@@ -86,4 +86,4 @@ const Default_Carousel: React.FC = () => {
   );
 };
 
-export default Default_Carousel;
+export default Slide_Status_Carousel;
