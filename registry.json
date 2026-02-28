@@ -157,5 +157,8 @@
   },
   "slides-status-carousel": {
     "files": ["slides-status-carousel"]
+  },
+  "pagination-carousel": {
+    "files": ["pagination-carousel"]
   }
 }
