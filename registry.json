@@ -163,5 +163,8 @@
   },
   "default-checkbox": {
     "files": ["default-checkbox"]
+  },
+  "horizontal-group-checkbox": {
+    "files": ["horizontal-group-checkbox"]
   }
 }
