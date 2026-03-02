@@ -160,5 +160,8 @@
   },
   "pagination-carousel": {
     "files": ["pagination-carousel"]
+  },
+  "default-checkbox": {
+    "files": ["default-checkbox"]
   }
 }
