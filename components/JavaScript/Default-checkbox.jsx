@@ -3,25 +3,31 @@
 
 import React, { useState } from "react";
 
-const Default_Checkbox = ({ label }) => {
+
+const Default_Checkbox = ({
+  label,
+  disabled = false,
+}) => {
   const [checked, setChecked] = useState<boolean>(false);
 
   return (
     <div className="flex items-center space-x-3 p-6">
-
       <input
         type="checkbox"
         id="terms"
+        disabled={disabled}
         checked={checked}
-        onChange={() => setChecked(!checked)}
-        className="w-4 h-4 accent-black cursor-pointer
-                   dark:accent-[#3B82F6]"
+        onChange={() => !disabled && setChecked(!checked)}
+        className={`w-4 h-4 
+          ${disabled ? "cursor-not-allowed opacity-50" : "cursor-pointer"} 
+          accent-black dark:accent-[#3B82F6]`}
       />
 
       <label
         htmlFor="terms"
-        className="font-medium text-black cursor-pointer
-                   dark:text-[#E5E7EB]"
+        className={`font-medium
+          ${disabled ? "cursor-not-allowed opacity-50" : "cursor-pointer"}
+          text-black dark:text-[#E5E7EB]`}
       >
         {label}
       </label>
