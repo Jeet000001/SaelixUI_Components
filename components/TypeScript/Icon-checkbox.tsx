@@ -29,7 +29,7 @@ const Icon_Checkbox: React.FC<IconToggleProps> = ({
   };
 
   return (
-    <div className="flex items-center gap-8 bg-[#EDEDED] p-6 rounded-md w-fit">
+    <div className="flex items-center gap-8 p-6 w-fit">
       {items.map((item) => {
         const isChecked = selected.includes(item.id);
 
