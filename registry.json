@@ -172,5 +172,8 @@
   },
   "icon-checkbox": {
     "files": ["icon-checkbox"]
+  },
+  "size-checkbox": {
+    "files": ["size-checkbox"]
   }
 }
