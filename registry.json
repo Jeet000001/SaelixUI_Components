@@ -2,8 +2,8 @@
   "Primary-button": {
     "files": ["Primary-button"]
   },
-  "secondary-button":{
-    "files":["secondary-button"]
+  "secondary-button": {
+    "files": ["secondary-button"]
   },
   "destructive-button": {
     "files": ["destructive-button"]
@@ -15,7 +15,7 @@
     "files": ["ghost-button"]
   },
   "link-button": {
-    "files":["link-button"]
+    "files": ["link-button"]
   },
   "disabled-button": {
     "files": ["disabled-button"]
@@ -75,7 +75,7 @@
     "files": ["avatar-character"]
   },
   "avatar-ring": {
-    "files": ["avatar-ring"] 
+    "files": ["avatar-ring"]
   },
   "avatar-stack": {
     "files": ["avatar-stack"]
@@ -169,5 +169,8 @@
   },
   "vertical-group-checkbox": {
     "files": ["vertical-group-checkbox"]
+  },
+  "icon-checkbox": {
+    "files": ["icon-checkbox"]
   }
 }
