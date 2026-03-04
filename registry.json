@@ -178,5 +178,8 @@
   }, 
   "default-dropdown": {
     "files": ["default-dropdown"]
+  },
+  "icon-dropdown": {
+    "files": ["icon-dropdown"]
   }
 }
