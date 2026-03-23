@@ -187,5 +187,8 @@
   },
   "disabled-input": {
     "files": ["disabled-input"]
+  },
+  "with-button-input": {
+    "files": ["with-button-input"]
   }
 }
