@@ -181,5 +181,8 @@
   },
   "icon-dropdown": {
     "files": ["icon-dropdown"]
+  },
+  "default-input": {
+    "files": ["default-input"]
   }
 }
