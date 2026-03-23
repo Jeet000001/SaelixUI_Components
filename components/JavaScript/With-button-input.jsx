@@ -19,7 +19,7 @@ const With_button_input = ({
       dark:bg-[#111827] dark:border-[#1F2937]
       shadow-sm dark:shadow-[0_4px_20px_rgba(0,0,0,0.4)]
       w-full max-w-sm
-    ">
+      ">
       <input
         type="email"
         value={value}
