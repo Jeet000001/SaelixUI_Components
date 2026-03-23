@@ -184,5 +184,8 @@
   },
   "default-input": {
     "files": ["default-input"]
+  },
+  "disabled-input": {
+    "files": ["disabled-input"]
   }
 }
